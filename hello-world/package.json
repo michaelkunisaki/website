@@ -10,9 +10,9 @@
     "react-dom": "^15.4.2"
   },
   "scripts": {
-    "start": "./node_modules/react-scripts/start.js",
-    "build": "./node_modules/react-scripts/build.js",
-    "test": "./node_modules/react-scripts/test.js --env=jsdom",
-    "eject": "./node_modules/react-scripts/eject.js"
+    "start": "./node_modules/react-scripts/scripts/start.js",
+    "build": "./node_modules/react-scripts/scripts/build.js",
+    "test": "./node_modules/react-scripts/scripts/test.js --env=jsdom",
+    "eject": "./node_modules/react-scripts/scripts/eject.js"
   }
 }
